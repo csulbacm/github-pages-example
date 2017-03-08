@@ -5,6 +5,9 @@ https://git-scm.com/docs
 Atlassian also has a good tutorial and documentation for getting started with git.  
 https://www.atlassian.com/git/tutorials/what-is-version-control
 
+Git cheat sheet.  
+https://education.github.com/git-cheat-sheet-education.pdf
+
 Github pages has all the information for hosting a static site using a git repository on Github.  
 https://pages.github.com/ 
 
