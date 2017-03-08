@@ -1,11 +1,11 @@
 #Intro to Git and Github Pages
-All commands and reference from git documentation.
+All commands and reference from git documentation.  
 https://git-scm.com/docs
 
-Atlassian also has a good tutorial and documentation for getting started with git.
+Atlassian also has a good tutorial and documentation for getting started with git.  
 https://www.atlassian.com/git/tutorials/what-is-version-control
 
-Github pages has all the information for hosting a static site using a git repository on Github.
+Github pages has all the information for hosting a static site using a git repository on Github.  
 https://pages.github.com/ 
 
 ##Dependencies
@@ -15,7 +15,7 @@ Install git from https://git-scm.com/ or using your OS package manager.
 Check installation with `git --version`
 
 ####Github account
-Setup an account with a Github by signing up 
+Setup an account with a Github by signing up.
 
 
 ##Git Commands
@@ -38,7 +38,7 @@ git add . 		#Adds current directory
 git add file 	#Adds file
 git add -A		#Adds all changes
 ```
-Check the status of your files on the stage waiting for commit
+Check the status of your files on the stage waiting for commit.
 ```
 git status
 ```
@@ -73,7 +73,7 @@ Checkout branches to switch current work in directory to branch.
 git checkout branchName		#Switch branches to branchName
 git checkout -b newBranch 	#Create a newBranch and switch to it
 ```
-Merge two branches
+Merge two branches.
 ```
 git merge otherBranch	#Merges other branch to current one
 ```
@@ -81,7 +81,7 @@ If you run into a merge conflict, a case where there is two different versions o
 ```
 git mergetool
 ```
-Many options for merge tools refer to iternet for different options and use what works for you.
+Many options for merge tools refer to internet for different options and use what works for you.
 ####Cloning a repository
 Copy an existing repository to your computer.
 ```
