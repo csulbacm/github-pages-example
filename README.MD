@@ -90,8 +90,9 @@ Copy an existing repository to your computer.
 ```
 git clone https://github.com/csulbacm/github-pages-example.git
 ```
-
-
+##Github pages
+Insinde a github repository go to settings and go to the github pages section. Select master or gh-pages branch to build website. URL and content is generated <username>.github.io/projectname. 
+https://pages.github.com/ 
 
 ##Git Workflows
 Many different types of workflows for working on Git with teams. Here is a good description.
